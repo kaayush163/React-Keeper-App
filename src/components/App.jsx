@@ -6,12 +6,11 @@ function App() {
   return (
     <div>
       {/* <h1> Hello App</h1> */}
-      <Header/>
-      <Note/>
-      <Footer/>
+      <Header />
+      <Note />
+      <Footer />
     </div>
-  )
+  );
 }
-
 
 export default App;
